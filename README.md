@@ -1,6 +1,12 @@
 # api-loja
 Api de testes
 
-# Bibliotecas
+# Documentação das Bibliotecas Usadas
 
-Node, sequelize e express
+Node https://nodejs.org/en/docs/
+Express http://expressjs.com
+Sequelize https://sequelize.org
+
+# Rodando projeto
+
+node index.js
